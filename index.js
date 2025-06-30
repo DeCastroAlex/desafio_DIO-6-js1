@@ -2,7 +2,7 @@
 
 // Entradas
 let nomeDoHeroi = "Alexandre";
-let xp = 8250; // Substitua por outra quantidade para testar diferentes níveis
+let xp = 8250; 
 
 // Nível do herói
 let nivel = "";
